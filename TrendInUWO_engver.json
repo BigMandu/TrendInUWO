@@ -1,0 +1,589 @@
+{
+    "TradingAreaInfo": [
+        {
+            "AreaId": 1,
+            "AreaName": "areaA",
+            "TrendStatus": [
+                {
+                    "LastTrendTime": "22:00",
+                    "trendid": 1
+                },
+                {
+                    "LastTrendTime": "22:00",
+                    "trendid": 2
+                },
+                {
+                    "LastTrendTime": "22:00",
+                    "trendid": 3
+                },
+                {
+                    "LastTrendTime": "22:00",
+                    "trendid": 4
+                },
+                {
+                    "LastTrendTime": "22:00",
+                    "trendid": 5
+                },
+                {
+                    "LastTrendTime": "22:00",
+                    "trendid": 6
+                },
+                {
+                    "LastTrendTime": "22:00",
+                    "trendid": 7
+                },
+                {
+                    "LastTrendTime": "22:00",
+                    "trendid": 8
+                }
+            ]
+        },
+        {
+            "AreaId": 2,
+            "AreaName": "areaB",
+            "TrendStatus": [
+                {
+                    "LastTrendTime": "22:00",
+                    "trendid": 1
+                },
+                {
+                    "LastTrendTime": "22:00",
+                    "trendid": 2
+                },
+                {
+                    "LastTrendTime": "22:00",
+                    "trendid": 3
+                },
+                {
+                    "LastTrendTime": "22:00",
+                    "trendid": 4
+                },
+                {
+                    "LastTrendTime": "22:00",
+                    "trendid": 5
+                },
+                {
+                    "LastTrendTime": "22:00",
+                    "trendid": 6
+                },
+                {
+                    "LastTrendTime": "22:00",
+                    "trendid": 7
+                },
+                {
+                    "LastTrendTime": "22:00",
+                    "trendid": 8
+                }
+            ]
+        },
+        {
+            "AreaId": 3,
+            "AreaName": "areaC",
+            "TrendStatus": [
+                {
+                    "LastTrendTime": "22:00",
+                    "trendid": 1
+                },
+                {
+                    "LastTrendTime": "22:00",
+                    "trendid": 2
+                },
+                {
+                    "LastTrendTime": "22:00",
+                    "trendid": 3
+                },
+                {
+                    "LastTrendTime": "22:00",
+                    "trendid": 4
+                },
+                {
+                    "LastTrendTime": "22:00",
+                    "trendid": 5
+                },
+                {
+                    "LastTrendTime": "22:00",
+                    "trendid": 6
+                },
+                {
+                    "LastTrendTime": "22:00",
+                    "trendid": 7
+                },
+                {
+                    "LastTrendTime": "22:00",
+                    "trendid": 8
+                }
+            ]
+        },
+        {
+            "AreaId": 4,
+            "AreaName": "areaD",
+            "TrendStatus": [
+                {
+                    "LastTrendTime": "22:00",
+                    "trendid": 1
+                },
+                {
+                    "LastTrendTime": "22:00",
+                    "trendid": 2
+                },
+                {
+                    "LastTrendTime": "22:00",
+                    "trendid": 3
+                },
+                {
+                    "LastTrendTime": "22:00",
+                    "trendid": 4
+                },
+                {
+                    "LastTrendTime": "22:00",
+                    "trendid": 5
+                },
+                {
+                    "LastTrendTime": "22:00",
+                    "trendid": 6
+                },
+                {
+                    "LastTrendTime": "22:00",
+                    "trendid": 7
+                },
+                {
+                    "LastTrendTime": "22:00",
+                    "trendid": 8
+                }
+            ]
+        },
+        {
+            "AreaId": 5,
+            "AreaName": "areaE",
+            "TrendStatus": [
+                {
+                    "LastTrendTime": "22:00",
+                    "trendid": 1
+                },
+                {
+                    "LastTrendTime": "22:00",
+                    "trendid": 2
+                },
+                {
+                    "LastTrendTime": "22:00",
+                    "trendid": 3
+                },
+                {
+                    "LastTrendTime": "22:00",
+                    "trendid": 4
+                },
+                {
+                    "LastTrendTime": "22:00",
+                    "trendid": 5
+                },
+                {
+                    "LastTrendTime": "22:00",
+                    "trendid": 6
+                },
+                {
+                    "LastTrendTime": "22:00",
+                    "trendid": 7
+                },
+                {
+                    "LastTrendTime": "22:00",
+                    "trendid": 8
+                }
+            ]
+        },
+        {
+            "AreaId": 6,
+            "AreaName": "areaF",
+            "TrendStatus": [
+                {
+                    "LastTrendTime": "22:00",
+                    "trendid": 1
+                },
+                {
+                    "LastTrendTime": "22:00",
+                    "trendid": 2
+                },
+                {
+                    "LastTrendTime": "22:00",
+                    "trendid": 3
+                },
+                {
+                    "LastTrendTime": "22:00",
+                    "trendid": 4
+                },
+                {
+                    "LastTrendTime": "22:00",
+                    "trendid": 5
+                },
+                {
+                    "LastTrendTime": "22:00",
+                    "trendid": 6
+                },
+                {
+                    "LastTrendTime": "22:00",
+                    "trendid": 7
+                },
+                {
+                    "LastTrendTime": "22:00",
+                    "trendid": 8
+                }
+            ]
+        },
+        {
+            "AreaId": 7,
+            "AreaName": "areaG",
+            "TrendStatus": [
+                {
+                    "LastTrendTime": "22:00",
+                    "trendid": 1
+                },
+                {
+                    "LastTrendTime": "22:00",
+                    "trendid": 2
+                },
+                {
+                    "LastTrendTime": "22:00",
+                    "trendid": 3
+                },
+                {
+                    "LastTrendTime": "22:00",
+                    "trendid": 4
+                },
+                {
+                    "LastTrendTime": "22:00",
+                    "trendid": 5
+                },
+                {
+                    "LastTrendTime": "22:00",
+                    "trendid": 6
+                },
+                {
+                    "LastTrendTime": "22:00",
+                    "trendid": 7
+                },
+                {
+                    "LastTrendTime": "22:00",
+                    "trendid": 8
+                }
+            ]
+        },
+        {
+            "AreaId": 8,
+            "AreaName": "areaH",
+            "TrendStatus": [
+                {
+                    "LastTrendTime": "22:00",
+                    "trendid": 1
+                },
+                {
+                    "LastTrendTime": "22:00",
+                    "trendid": 2
+                },
+                {
+                    "LastTrendTime": "22:00",
+                    "trendid": 3
+                },
+                {
+                    "LastTrendTime": "22:00",
+                    "trendid": 4
+                },
+                {
+                    "LastTrendTime": "22:00",
+                    "trendid": 5
+                },
+                {
+                    "LastTrendTime": "22:00",
+                    "trendid": 6
+                },
+                {
+                    "LastTrendTime": "22:00",
+                    "trendid": 7
+                },
+                {
+                    "LastTrendTime": "22:00",
+                    "trendid": 8
+                }
+            ]
+        },
+        {
+            "AreaId": 9,
+            "AreaName": "areaI",
+            "TrendStatus": [
+                {
+                    "LastTrendTime": "22:00",
+                    "trendid": 1
+                },
+                {
+                    "LastTrendTime": "22:00",
+                    "trendid": 2
+                },
+                {
+                    "LastTrendTime": "22:00",
+                    "trendid": 3
+                },
+                {
+                    "LastTrendTime": "22:00",
+                    "trendid": 4
+                },
+                {
+                    "LastTrendTime": "22:00",
+                    "trendid": 5
+                },
+                {
+                    "LastTrendTime": "22:00",
+                    "trendid": 6
+                },
+                {
+                    "LastTrendTime": "22:00",
+                    "trendid": 7
+                },
+                {
+                    "LastTrendTime": "22:00",
+                    "trendid": 8
+                }
+            ]
+        },
+        {
+            "AreaId": 10,
+            "AreaName": "areaJ",
+            "TrendStatus": [
+                {
+                    "LastTrendTime": "22:00",
+                    "trendid": 1
+                },
+                {
+                    "LastTrendTime": "22:00",
+                    "trendid": 2
+                },
+                {
+                    "LastTrendTime": "22:00",
+                    "trendid": 3
+                },
+                {
+                    "LastTrendTime": "22:00",
+                    "trendid": 4
+                },
+                {
+                    "LastTrendTime": "22:00",
+                    "trendid": 5
+                },
+                {
+                    "LastTrendTime": "22:00",
+                    "trendid": 6
+                },
+                {
+                    "LastTrendTime": "22:00",
+                    "trendid": 7
+                },
+                {
+                    "LastTrendTime": "22:00",
+                    "trendid": 8
+                }
+            ]
+        },
+        {
+            "AreaId": 11,
+            "AreaName": "areaK",
+            "TrendStatus": [
+                {
+                    "LastTrendTime": "22:00",
+                    "trendid": 1
+                },
+                {
+                    "LastTrendTime": "22:00",
+                    "trendid": 2
+                },
+                {
+                    "LastTrendTime": "22:00",
+                    "trendid": 3
+                },
+                {
+                    "LastTrendTime": "22:00",
+                    "trendid": 4
+                },
+                {
+                    "LastTrendTime": "22:00",
+                    "trendid": 5
+                },
+                {
+                    "LastTrendTime": "22:00",
+                    "trendid": 6
+                },
+                {
+                    "LastTrendTime": "22:00",
+                    "trendid": 7
+                },
+                {
+                    "LastTrendTime": "22:00",
+                    "trendid": 8
+                }
+            ]
+        },
+        {
+            "AreaId": 12,
+            "AreaName": "areaL",
+            "TrendStatus": [
+                {
+                    "LastTrendTime": "22:00",
+                    "trendid": 1
+                },
+                {
+                    "LastTrendTime": "22:00",
+                    "trendid": 2
+                },
+                {
+                    "LastTrendTime": "22:00",
+                    "trendid": 3
+                },
+                {
+                    "LastTrendTime": "22:00",
+                    "trendid": 4
+                },
+                {
+                    "LastTrendTime": "22:00",
+                    "trendid": 5
+                },
+                {
+                    "LastTrendTime": "22:00",
+                    "trendid": 6
+                },
+                {
+                    "LastTrendTime": "22:00",
+                    "trendid": 7
+                },
+                {
+                    "LastTrendTime": "22:00",
+                    "trendid": 8
+                }
+            ]
+        },
+        {
+            "AreaId": 13,
+            "AreaName": "areaM",
+            "TrendStatus": [
+                {
+                    "LastTrendTime": "22:00",
+                    "trendid": 1
+                },
+                {
+                    "LastTrendTime": "22:00",
+                    "trendid": 2
+                },
+                {
+                    "LastTrendTime": "22:00",
+                    "trendid": 3
+                },
+                {
+                    "LastTrendTime": "22:00",
+                    "trendid": 4
+                },
+                {
+                    "LastTrendTime": "22:00",
+                    "trendid": 5
+                },
+                {
+                    "LastTrendTime": "22:00",
+                    "trendid": 6
+                },
+                {
+                    "LastTrendTime": "22:00",
+                    "trendid": 7
+                },
+                {
+                    "LastTrendTime": "22:00",
+                    "trendid": 8
+                }
+            ]
+        },
+        {
+            "AreaId": 14,
+            "AreaName": "areaN",
+            "TrendStatus": [
+                {
+                    "LastTrendTime": "22:00",
+                    "trendid": 1
+                },
+                {
+                    "LastTrendTime": "22:00",
+                    "trendid": 2
+                },
+                {
+                    "LastTrendTime": "22:00",
+                    "trendid": 3
+                },
+                {
+                    "LastTrendTime": "22:00",
+                    "trendid": 4
+                },
+                {
+                    "LastTrendTime": "22:00",
+                    "trendid": 5
+                },
+                {
+                    "LastTrendTime": "22:00",
+                    "trendid": 6
+                },
+                {
+                    "LastTrendTime": "22:00",
+                    "trendid": 7
+                },
+                {
+                    "LastTrendTime": "22:00",
+                    "trendid": 8
+                }
+            ]
+        }
+    ],
+    "info": {
+        "LastSaveTime": "2023-01-27T19:13:10",
+        "TrendInfo": [
+            {
+                "trendID": 1,
+                "trendItems": "apple, banana",
+                "trendName": "trendA",
+                "trendTerm": 2
+            },
+            {
+                "trendID": 2,
+                "trendItems": "bike, motobike",
+                "trendName": "trendB",
+                "trendTerm": 3
+            },
+            {
+                "trendID": 3,
+                "trendItems": "smartphone, notebook",
+                "trendName": "trendC",
+                "trendTerm": 5
+            },
+            {
+                "trendID": 4,
+                "trendItems": "desktop, tablet",
+                "trendName": "trendD",
+                "trendTerm": 7
+            },
+            {
+                "trendID": 5,
+                "trendItems": "mask, headphone",
+                "trendName": "trendE",
+                "trendTerm": 11
+            },
+            {
+                "trendID": 6,
+                "trendItems": "xbox, playstation",
+                "trendName": "trendF",
+                "trendTerm": 13
+            },
+            {
+                "trendID": 7,
+                "trendItems": "goretex, fabric",
+                "trendName": "trendG",
+                "trendTerm": 17
+            },
+            {
+                "trendID": 8,
+                "trendItems": "jewerly, handbag, backpack",
+                "trendName": "trendH",
+                "trendTerm": 19
+            }
+        ]
+    }
+}

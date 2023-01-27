@@ -1,0 +1,589 @@
+{
+    "TradingAreaInfo": [
+        {
+            "AreaId": 1,
+            "AreaName": "동지중해",
+            "TrendStatus": [
+                {
+                    "LastTrendTime": "22:00",
+                    "trendid": 1
+                },
+                {
+                    "LastTrendTime": "22:00",
+                    "trendid": 2
+                },
+                {
+                    "LastTrendTime": "22:00",
+                    "trendid": 3
+                },
+                {
+                    "LastTrendTime": "22:00",
+                    "trendid": 4
+                },
+                {
+                    "LastTrendTime": "22:00",
+                    "trendid": 5
+                },
+                {
+                    "LastTrendTime": "22:00",
+                    "trendid": 6
+                },
+                {
+                    "LastTrendTime": "22:00",
+                    "trendid": 7
+                },
+                {
+                    "LastTrendTime": "22:00",
+                    "trendid": 8
+                }
+            ]
+        },
+        {
+            "AreaId": 2,
+            "AreaName": "서지중해",
+            "TrendStatus": [
+                {
+                    "LastTrendTime": "22:00",
+                    "trendid": 1
+                },
+                {
+                    "LastTrendTime": "22:00",
+                    "trendid": 2
+                },
+                {
+                    "LastTrendTime": "22:00",
+                    "trendid": 3
+                },
+                {
+                    "LastTrendTime": "22:00",
+                    "trendid": 4
+                },
+                {
+                    "LastTrendTime": "22:00",
+                    "trendid": 5
+                },
+                {
+                    "LastTrendTime": "22:00",
+                    "trendid": 6
+                },
+                {
+                    "LastTrendTime": "22:00",
+                    "trendid": 7
+                },
+                {
+                    "LastTrendTime": "22:00",
+                    "trendid": 8
+                }
+            ]
+        },
+        {
+            "AreaId": 3,
+            "AreaName": "북해",
+            "TrendStatus": [
+                {
+                    "LastTrendTime": "22:00",
+                    "trendid": 1
+                },
+                {
+                    "LastTrendTime": "22:00",
+                    "trendid": 2
+                },
+                {
+                    "LastTrendTime": "22:00",
+                    "trendid": 3
+                },
+                {
+                    "LastTrendTime": "22:00",
+                    "trendid": 4
+                },
+                {
+                    "LastTrendTime": "22:00",
+                    "trendid": 5
+                },
+                {
+                    "LastTrendTime": "22:00",
+                    "trendid": 6
+                },
+                {
+                    "LastTrendTime": "22:00",
+                    "trendid": 7
+                },
+                {
+                    "LastTrendTime": "22:00",
+                    "trendid": 8
+                }
+            ]
+        },
+        {
+            "AreaId": 4,
+            "AreaName": "아프리카서쪽",
+            "TrendStatus": [
+                {
+                    "LastTrendTime": "22:00",
+                    "trendid": 1
+                },
+                {
+                    "LastTrendTime": "22:00",
+                    "trendid": 2
+                },
+                {
+                    "LastTrendTime": "22:00",
+                    "trendid": 3
+                },
+                {
+                    "LastTrendTime": "22:00",
+                    "trendid": 4
+                },
+                {
+                    "LastTrendTime": "22:00",
+                    "trendid": 5
+                },
+                {
+                    "LastTrendTime": "22:00",
+                    "trendid": 6
+                },
+                {
+                    "LastTrendTime": "22:00",
+                    "trendid": 7
+                },
+                {
+                    "LastTrendTime": "22:00",
+                    "trendid": 8
+                }
+            ]
+        },
+        {
+            "AreaId": 5,
+            "AreaName": "아프리카남쪽",
+            "TrendStatus": [
+                {
+                    "LastTrendTime": "22:00",
+                    "trendid": 1
+                },
+                {
+                    "LastTrendTime": "22:00",
+                    "trendid": 2
+                },
+                {
+                    "LastTrendTime": "22:00",
+                    "trendid": 3
+                },
+                {
+                    "LastTrendTime": "22:00",
+                    "trendid": 4
+                },
+                {
+                    "LastTrendTime": "22:00",
+                    "trendid": 5
+                },
+                {
+                    "LastTrendTime": "22:00",
+                    "trendid": 6
+                },
+                {
+                    "LastTrendTime": "22:00",
+                    "trendid": 7
+                },
+                {
+                    "LastTrendTime": "22:00",
+                    "trendid": 8
+                }
+            ]
+        },
+        {
+            "AreaId": 6,
+            "AreaName": "아프리카동쪽",
+            "TrendStatus": [
+                {
+                    "LastTrendTime": "22:00",
+                    "trendid": 1
+                },
+                {
+                    "LastTrendTime": "22:00",
+                    "trendid": 2
+                },
+                {
+                    "LastTrendTime": "22:00",
+                    "trendid": 3
+                },
+                {
+                    "LastTrendTime": "22:00",
+                    "trendid": 4
+                },
+                {
+                    "LastTrendTime": "22:00",
+                    "trendid": 5
+                },
+                {
+                    "LastTrendTime": "22:00",
+                    "trendid": 6
+                },
+                {
+                    "LastTrendTime": "22:00",
+                    "trendid": 7
+                },
+                {
+                    "LastTrendTime": "22:00",
+                    "trendid": 8
+                }
+            ]
+        },
+        {
+            "AreaId": 7,
+            "AreaName": "서인도",
+            "TrendStatus": [
+                {
+                    "LastTrendTime": "22:00",
+                    "trendid": 1
+                },
+                {
+                    "LastTrendTime": "22:00",
+                    "trendid": 2
+                },
+                {
+                    "LastTrendTime": "22:00",
+                    "trendid": 3
+                },
+                {
+                    "LastTrendTime": "22:00",
+                    "trendid": 4
+                },
+                {
+                    "LastTrendTime": "22:00",
+                    "trendid": 5
+                },
+                {
+                    "LastTrendTime": "22:00",
+                    "trendid": 6
+                },
+                {
+                    "LastTrendTime": "22:00",
+                    "trendid": 7
+                },
+                {
+                    "LastTrendTime": "22:00",
+                    "trendid": 8
+                }
+            ]
+        },
+        {
+            "AreaId": 8,
+            "AreaName": "동인도",
+            "TrendStatus": [
+                {
+                    "LastTrendTime": "22:00",
+                    "trendid": 1
+                },
+                {
+                    "LastTrendTime": "22:00",
+                    "trendid": 2
+                },
+                {
+                    "LastTrendTime": "22:00",
+                    "trendid": 3
+                },
+                {
+                    "LastTrendTime": "22:00",
+                    "trendid": 4
+                },
+                {
+                    "LastTrendTime": "22:00",
+                    "trendid": 5
+                },
+                {
+                    "LastTrendTime": "22:00",
+                    "trendid": 6
+                },
+                {
+                    "LastTrendTime": "22:00",
+                    "trendid": 7
+                },
+                {
+                    "LastTrendTime": "22:00",
+                    "trendid": 8
+                }
+            ]
+        },
+        {
+            "AreaId": 9,
+            "AreaName": "남아시아",
+            "TrendStatus": [
+                {
+                    "LastTrendTime": "22:00",
+                    "trendid": 1
+                },
+                {
+                    "LastTrendTime": "22:00",
+                    "trendid": 2
+                },
+                {
+                    "LastTrendTime": "22:00",
+                    "trendid": 3
+                },
+                {
+                    "LastTrendTime": "22:00",
+                    "trendid": 4
+                },
+                {
+                    "LastTrendTime": "22:00",
+                    "trendid": 5
+                },
+                {
+                    "LastTrendTime": "22:00",
+                    "trendid": 6
+                },
+                {
+                    "LastTrendTime": "22:00",
+                    "trendid": 7
+                },
+                {
+                    "LastTrendTime": "22:00",
+                    "trendid": 8
+                }
+            ]
+        },
+        {
+            "AreaId": 10,
+            "AreaName": "오세아니아",
+            "TrendStatus": [
+                {
+                    "LastTrendTime": "22:00",
+                    "trendid": 1
+                },
+                {
+                    "LastTrendTime": "22:00",
+                    "trendid": 2
+                },
+                {
+                    "LastTrendTime": "22:00",
+                    "trendid": 3
+                },
+                {
+                    "LastTrendTime": "22:00",
+                    "trendid": 4
+                },
+                {
+                    "LastTrendTime": "22:00",
+                    "trendid": 5
+                },
+                {
+                    "LastTrendTime": "22:00",
+                    "trendid": 6
+                },
+                {
+                    "LastTrendTime": "22:00",
+                    "trendid": 7
+                },
+                {
+                    "LastTrendTime": "22:00",
+                    "trendid": 8
+                }
+            ]
+        },
+        {
+            "AreaId": 11,
+            "AreaName": "동아시아",
+            "TrendStatus": [
+                {
+                    "LastTrendTime": "22:00",
+                    "trendid": 1
+                },
+                {
+                    "LastTrendTime": "22:00",
+                    "trendid": 2
+                },
+                {
+                    "LastTrendTime": "22:00",
+                    "trendid": 3
+                },
+                {
+                    "LastTrendTime": "22:00",
+                    "trendid": 4
+                },
+                {
+                    "LastTrendTime": "22:00",
+                    "trendid": 5
+                },
+                {
+                    "LastTrendTime": "22:00",
+                    "trendid": 6
+                },
+                {
+                    "LastTrendTime": "22:00",
+                    "trendid": 7
+                },
+                {
+                    "LastTrendTime": "22:00",
+                    "trendid": 8
+                }
+            ]
+        },
+        {
+            "AreaId": 12,
+            "AreaName": "극동아시아",
+            "TrendStatus": [
+                {
+                    "LastTrendTime": "22:00",
+                    "trendid": 1
+                },
+                {
+                    "LastTrendTime": "22:00",
+                    "trendid": 2
+                },
+                {
+                    "LastTrendTime": "22:00",
+                    "trendid": 3
+                },
+                {
+                    "LastTrendTime": "22:00",
+                    "trendid": 4
+                },
+                {
+                    "LastTrendTime": "22:00",
+                    "trendid": 5
+                },
+                {
+                    "LastTrendTime": "22:00",
+                    "trendid": 6
+                },
+                {
+                    "LastTrendTime": "22:00",
+                    "trendid": 7
+                },
+                {
+                    "LastTrendTime": "22:00",
+                    "trendid": 8
+                }
+            ]
+        },
+        {
+            "AreaId": 13,
+            "AreaName": "아메리카동부",
+            "TrendStatus": [
+                {
+                    "LastTrendTime": "22:00",
+                    "trendid": 1
+                },
+                {
+                    "LastTrendTime": "22:00",
+                    "trendid": 2
+                },
+                {
+                    "LastTrendTime": "22:00",
+                    "trendid": 3
+                },
+                {
+                    "LastTrendTime": "22:00",
+                    "trendid": 4
+                },
+                {
+                    "LastTrendTime": "22:00",
+                    "trendid": 5
+                },
+                {
+                    "LastTrendTime": "22:00",
+                    "trendid": 6
+                },
+                {
+                    "LastTrendTime": "22:00",
+                    "trendid": 7
+                },
+                {
+                    "LastTrendTime": "22:00",
+                    "trendid": 8
+                }
+            ]
+        },
+        {
+            "AreaId": 14,
+            "AreaName": "남미",
+            "TrendStatus": [
+                {
+                    "LastTrendTime": "22:00",
+                    "trendid": 1
+                },
+                {
+                    "LastTrendTime": "22:00",
+                    "trendid": 2
+                },
+                {
+                    "LastTrendTime": "22:00",
+                    "trendid": 3
+                },
+                {
+                    "LastTrendTime": "22:00",
+                    "trendid": 4
+                },
+                {
+                    "LastTrendTime": "22:00",
+                    "trendid": 5
+                },
+                {
+                    "LastTrendTime": "22:00",
+                    "trendid": 6
+                },
+                {
+                    "LastTrendTime": "22:00",
+                    "trendid": 7
+                },
+                {
+                    "LastTrendTime": "22:00",
+                    "trendid": 8
+                }
+            ]
+        }
+    ],
+    "info": {
+        "LastSaveTime": "2023-01-27T16:44:13",
+        "TrendInfo": [
+            {
+                "trendID": 1,
+                "trendItems": "식료품, 조미료, 기호품",
+                "trendName": "축제",
+                "trendTerm": 2
+            },
+            {
+                "trendID": 2,
+                "trendItems": "잡화, 의약품, 섬유",
+                "trendName": "전염병",
+                "trendTerm": 3
+            },
+            {
+                "trendID": 3,
+                "trendItems": "식료품, 공업품, 직물",
+                "trendName": "홍수",
+                "trendTerm": 5
+            },
+            {
+                "trendID": 4,
+                "trendItems": "가축, 무기류, 총포류",
+                "trendName": "전쟁",
+                "trendTerm": 7
+            },
+            {
+                "trendID": 5,
+                "trendItems": "염료, 공예품, 미술품",
+                "trendName": "후원",
+                "trendTerm": 11
+            },
+            {
+                "trendID": 6,
+                "trendItems": "공업품, 광석, 주류 또는 식료품",
+                "trendName": "개발",
+                "trendTerm": 13
+            },
+            {
+                "trendID": 7,
+                "trendItems": "보석, 미술품, 귀금속",
+                "trendName": "호황",
+                "trendTerm": 17
+            },
+            {
+                "trendID": 8,
+                "trendItems": "공예품, 향신료, 향료",
+                "trendName": "사치",
+                "trendTerm": 19
+            }
+        ]
+    }
+}
